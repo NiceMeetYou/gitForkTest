@@ -1,5 +1,14 @@
+
 //dev 1번
 //dev 2번
+
+//2번브랜치 1
+
+
+//dev 1번
+//dev 2번
+
+
 
 //2번브랜치 1
 
@@ -10,6 +19,7 @@
 //get item 1
 //get item2
 //get item2
+
 
 // developer
 //nice mmet new
